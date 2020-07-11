@@ -1,0 +1,14 @@
+Column,Description
+#,ID for each pokemon
+Name,Name of each pokemon
+Type 1,"Each pokemon has a type, this determines weakness/resistance to attacks"
+Type 2,Some pokemon are dual type and have 2
+Total,A general guide to how strong a pokemon is
+HP,"Hit points, or health, defines how much damage a pokemon can withstand before fainting"
+Attack,"The base modifier for normal attacks (eg. Scratch, Punch)"
+Defense,The base damage resistance against normal attacks
+SP Atk,"Special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)"
+SP Def,The base damage resistance against special attacks
+Speed,Determines which pokemon attacks first each round
+Generation,Number of generation
+Legendary,True if Legendary Pokemon False if not
